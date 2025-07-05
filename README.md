@@ -1,3 +1,4 @@
+### UAS MATAKULIAH KECERDASAN BUATAN ###
 📦 Dataset Biji Kakao – Kualitas Baik & Buruk
 Dataset ini berisi kumpulan gambar biji kakao yang dikategorikan ke dalam dua kelas kualitas: baik (good) dan buruk (poor), diambil dari repositori terbuka Mendeley. Setiap gambar merepresentasikan kondisi visual nyata biji kakao yang siap diklasifikasikan berdasarkan tampilannya.
 
